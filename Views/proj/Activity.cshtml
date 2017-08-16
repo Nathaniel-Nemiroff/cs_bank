@@ -1,0 +1,17 @@
+<h2>Welcome @ViewBag.User.Name</h2>
+<a href="/">Home</a>
+<p>Current Balance: @ViewBag.User.Balance</p>
+<h4>Make a widthdraw(positive) or deposit(negative)</h4>
+
+<form action="/act" method=post>
+	Amount: <input type="number" name="amount">
+	<input type=submit value="widthdraw/deposit">
+</form>
+
+<p>activity</p>
+@{
+	foreach(var i in ViewBag.Activity)
+	{
+		<p>@i.CreatedAt - @i.Amount</p>
+	}
+}

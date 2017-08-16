@@ -1,0 +1,8 @@
+/home/nate/Documents/cddj/ch8/EF/bank/bin/Debug/netcoreapp1.1/bank.deps.json
+/home/nate/Documents/cddj/ch8/EF/bank/bin/Debug/netcoreapp1.1/bank.runtimeconfig.json
+/home/nate/Documents/cddj/ch8/EF/bank/bin/Debug/netcoreapp1.1/bank.runtimeconfig.dev.json
+/home/nate/Documents/cddj/ch8/EF/bank/bin/Debug/netcoreapp1.1/bank.dll
+/home/nate/Documents/cddj/ch8/EF/bank/bin/Debug/netcoreapp1.1/bank.pdb
+/home/nate/Documents/cddj/ch8/EF/bank/obj/Debug/netcoreapp1.1/bank.AssemblyInfo.cs
+/home/nate/Documents/cddj/ch8/EF/bank/obj/Debug/netcoreapp1.1/bank.dll
+/home/nate/Documents/cddj/ch8/EF/bank/obj/Debug/netcoreapp1.1/bank.pdb
